@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Physician Advisor Clinical Documentation Improvement Program
+      text: Physician Advisor CDI Program
       color: text-dark
       styles:
         self:
