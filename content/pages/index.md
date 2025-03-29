@@ -692,11 +692,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Get in touch!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We would enjoy hearing from you. If you have any questions or comments,
+      please fill out the form to the right and we will be in touch.
     media:
       fields:
         - name: name
