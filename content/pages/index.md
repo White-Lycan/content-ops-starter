@@ -13,9 +13,18 @@ sections:
           textAlign: left
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      In today’s complex healthcare landscape, high-quality Clinical
+      Documentation Improvement (CDI) is essential for ensuring accurate,
+      comprehensive patient records that drive better care, financial accuracy,
+      and regulatory compliance. CDI goes beyond meeting compliance
+      requirements—it's about capturing the full story of a patient’s health to
+      support clinical decisions, optimize reimbursements, and improve
+      operational efficiency. When done right, CDI enhances patient outcomes,
+      safeguards against financial risks, and fosters a culture of quality care
+      by ensuring every diagnosis, procedure, and treatment is documented with
+      clarity and precision. Ultimately, CDI is a strategic advantage that
+      empowers healthcare organizations to deliver superior care and thrive in
+      an increasingly data-driven world.
     actions:
       - label: Get started
         altText: ''
