@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Physician Advisor Clinical Documentation Improvement Program
       color: text-dark
+      styles:
+        self:
+          fontWeight: 500
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
