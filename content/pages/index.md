@@ -4,9 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Physician Advisor Clinical Documentation Improvement Program
-      color: text-primary
       type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
