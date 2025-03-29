@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: The importance of cdi
+      label: The importance of High quality cdi
       color: text-primary
       styles:
         self:
