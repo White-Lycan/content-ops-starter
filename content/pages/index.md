@@ -48,6 +48,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/icon1.svg
     badge:
       label: Welcome to the
       color: text-primary
