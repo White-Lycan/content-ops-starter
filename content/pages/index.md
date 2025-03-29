@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Physician Advisor Clinical Documentation Improvement Program
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
