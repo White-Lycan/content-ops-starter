@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: The importance of cdi
       color: text-primary
       styles:
         self:
