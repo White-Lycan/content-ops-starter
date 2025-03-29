@@ -9,7 +9,7 @@ sections:
       color: text-dark
       styles:
         self:
-          fontWeight: 500
+          fontWeight: 700
           textAlign: center
     subtitle: Subtitle goes here
     text: >
